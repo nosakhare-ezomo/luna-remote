@@ -1,6 +1,6 @@
 {
-  "versionName": "1.1.2",
-  "versionCode": 4,
-  "releaseNotes": "Luna Remote v1.1.2:\n- Official full streaming brand banners (NETFLIX, YouTube, Prime Video, Disney+)\n- Removed redundant mini-labels for authentic TV remote feel\n- Instant OTA update delivery",
-  "apkUrl": "https://github.com/nosakhare-ezomo/luna-remote/releases/download/v1.1.2/Luna-TV-Remote.apk"
+  "versionName": "1.1.3",
+  "versionCode": 5,
+  "releaseNotes": "Luna Remote v1.1.3:\n- Authentic standalone squircle streaming app tiles matching reference UI\n- Netflix: Deep black squircle with official 3D ribbon N\n- YouTube: Solid bright red squircle with centered play triangle\n- Prime Video: Solid cyan/blue squircle with official logo & smile arrow\n- Disney+: Rich aurora teal/cyan gradient squircle with official logo & magic arc",
+  "apkUrl": "https://github.com/nosakhare-ezomo/luna-remote/releases/download/v1.1.3/Luna-TV-Remote.apk"
 }
