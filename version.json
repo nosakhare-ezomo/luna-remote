@@ -1,6 +1,6 @@
 {
-  "versionName": "1.1.0",
-  "versionCode": 2,
-  "releaseNotes": "Luna Remote v1.1.0:\n- Universal TV Power button\n- Quick-launch Streaming Bar (Netflix, Disney+, YouTube, Prime)\n- Redesigned launcher icon\n- Symmetrical volume & channel rockers\n- Over-The-Air update system",
-  "apkUrl": "https://github.com/nosakhare-ezomo/luna-remote/releases/download/v1.1.0/Luna-TV-Remote.apk"
+  "versionName": "1.1.1",
+  "versionCode": 3,
+  "releaseNotes": "Luna Remote v1.1.1:\n- Official high-definition streaming app vector logos (Netflix ribbon N, YouTube play badge, Prime Video smile arrow, Disney+ magic arch)\n- Refined brand accent glow and badge alignment",
+  "apkUrl": "https://github.com/nosakhare-ezomo/luna-remote/releases/download/v1.1.1/Luna-TV-Remote.apk"
 }
