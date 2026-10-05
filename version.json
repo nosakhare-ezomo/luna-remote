@@ -1,6 +1,6 @@
 {
-  "versionName": "1.1.1",
-  "versionCode": 3,
-  "releaseNotes": "Luna Remote v1.1.1:\n- Official high-definition streaming app vector logos (Netflix ribbon N, YouTube play badge, Prime Video smile arrow, Disney+ magic arch)\n- Refined brand accent glow and badge alignment",
-  "apkUrl": "https://github.com/nosakhare-ezomo/luna-remote/releases/download/v1.1.1/Luna-TV-Remote.apk"
+  "versionName": "1.1.2",
+  "versionCode": 4,
+  "releaseNotes": "Luna Remote v1.1.2:\n- Official full streaming brand banners (NETFLIX, YouTube, Prime Video, Disney+)\n- Removed redundant mini-labels for authentic TV remote feel\n- Instant OTA update delivery",
+  "apkUrl": "https://github.com/nosakhare-ezomo/luna-remote/releases/download/v1.1.2/Luna-TV-Remote.apk"
 }
