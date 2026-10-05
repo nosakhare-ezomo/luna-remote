@@ -1,6 +1,6 @@
 {
-  "versionName": "1.1.5",
-  "versionCode": 7,
-  "releaseNotes": "Luna Remote v1.1.5:\n- Redesigned edge-to-edge adaptive launcher icon with seamless OneUI/Pixel squircle blending (no double borders)\n- Authentic standalone squircle streaming app cards (Netflix, YouTube, Prime Video, Disney+)",
-  "apkUrl": "https://github.com/nosakhare-ezomo/luna-remote/releases/download/v1.1.5/Luna-TV-Remote.apk"
+  "versionName": "1.1.6",
+  "versionCode": 8,
+  "releaseNotes": "Luna Remote v1.1.6:\n- Unified Streaming App Shortcuts row with single consistent AppShortcut component\n- Identical card sizes, corner radii, internal padding, and optical logo centering\n- Perfect single-line baseline text alignment for Netflix, YouTube, Prime Video, and Disney+",
+  "apkUrl": "https://github.com/nosakhare-ezomo/luna-remote/releases/download/v1.1.6/Luna-TV-Remote.apk"
 }
